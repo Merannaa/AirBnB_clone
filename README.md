@@ -12,6 +12,7 @@ console is a command line interpreter that permits management of the backend of 
 
 To run the console in non-interactive mode, pipe any command(s) into an execution of the file console.py at the command line.
 
+
 $ echo "help" | ./console.py
 (hbnb) 
 Documented commands (type help <topic>):
@@ -37,5 +38,5 @@ $ ./console.py
 $
 
 ## AUTHORS
-1- Meran Ahmed
-2- Asmaa Elmallah
+**1- **Meran Ahmed
+**2- ** Asmaa Elmallah
